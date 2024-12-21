@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack engineer from the Netherlands</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dobefu&label=Profile%20views&color=0e75b6&style=flat" alt="dobefu" />
+  <img src="https://komarev.com/ghpvc/?username=dobefu&label=Profile%20views&color=0284c7" alt="dobefu" />
 </p>
 
 <p align="left">
