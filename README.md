@@ -25,16 +25,28 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <img align="left"
+  <img
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dobefu&show_icons=true&locale=en&layout=pie&theme=github_dark_dimmed"
-    alt="dobefu" />
+    alt="dobefu"
+    height="419"
+  />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en&theme=github_dark_dimmed"
-    alt="Dobefu" />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en&card_width=500&theme=github_dark_dimmed"
+    alt="Dobefu"
+    height="200"
+  />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&theme=github_dark_dimmed" alt="Dobefu" />
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&card_width=500&theme=github_dark_dimmed"
+    alt="Dobefu"
+    height="200"
+  />
 </p>
