@@ -26,15 +26,15 @@
 
 <p>
   <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dobefu&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dobefu&show_icons=true&locale=en&theme=github_dark_dimmed"
     alt="dobefu" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en&theme=github_dark_dimmed"
     alt="Dobefu" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&" alt="Dobefu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&theme=github_dark_dimmed" alt="Dobefu" />
 </p>
