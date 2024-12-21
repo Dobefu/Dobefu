@@ -36,7 +36,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en&card_width=500&theme=github_dark_dimmed"
+    src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en&card_width=450&theme=github_dark_dimmed"
     alt="Dobefu"
     height="200"
   />
@@ -45,7 +45,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&card_width=500&theme=github_dark_dimmed"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&card_width=450&theme=github_dark_dimmed"
     alt="Dobefu"
     height="200"
   />
