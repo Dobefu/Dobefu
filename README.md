@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Dobefu/Dobefu/refs/heads/main/img/logo.svg"
+    alt=""
+    height="64"
+  />
+</p>
+
 <h1 align="center">Hi, I'm Connor van Spronssen</h1>
 <h3 align="center">A passionate full-stack engineer from the Netherlands 🇳🇱</h3>
 
