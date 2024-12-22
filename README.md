@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dobefu&theme=gitdimmed&margin-w=15&margin-h=15" alt="Dobefu" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dobefu&theme=gitdimmed&margin-w=8&margin-h=8" alt="Dobefu" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dobefu&show_icons=true&locale=en&layout=pie&theme=github_dark_dimmed"
     alt="dobefu"
-    height="379"
+    height="369"
   />
 </p>
 
@@ -48,7 +48,7 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en&card_width=450&theme=github_dark_dimmed"
     alt="Dobefu"
-    height="180"
+    height="175"
   />
 </p>
 
@@ -57,6 +57,6 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&card_width=450&theme=github_dark_dimmed"
     alt="Dobefu"
-    height="180"
+    height="175"
   />
 </p>
