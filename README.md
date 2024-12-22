@@ -41,7 +41,7 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dobefu&show_icons=true&locale=en&layout=pie&theme=github_dark_dimmed"
     alt="dobefu"
-    height="419"
+    height="379"
   />
 </p>
 
@@ -50,7 +50,7 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=dobefu&show_icons=true&locale=en&card_width=450&theme=github_dark_dimmed"
     alt="Dobefu"
-    height="200"
+    height="180"
   />
 </p>
 
@@ -59,6 +59,6 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=dobefu&card_width=450&theme=github_dark_dimmed"
     alt="Dobefu"
-    height="200"
+    height="180"
   />
 </p>
