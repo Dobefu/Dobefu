@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=dobefu&label=Profile%20views&color=0284c7" alt="Dobefu" />
 </p>
 
-<p>&nbsp;</p>
-
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dobefu&theme=gitdimmed&margin-w=15&margin-h=15" alt="Dobefu" />
