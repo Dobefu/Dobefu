@@ -23,7 +23,7 @@
 
 <p>&nbsp;</p>
 
-<h2>Connect with me</h2>
+<h2>🌐 Connect with me</h2>
 <p>
   <a href="https://bsky.app/profile/connor.nl" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/Dobefu/Dobefu/refs/heads/main/img/bluesky.svg" alt="connor.nl" height="30" width="40" />
