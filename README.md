@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dobefu&theme=gitdimmed&margin-w=8&margin-h=8" alt="Dobefu" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dobefu&theme=gitdimmed&margin-w=8&margin-h=8&rank=-?" alt="Dobefu" />
   </a>
 </p>
 
