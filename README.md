@@ -9,10 +9,6 @@
 <h1 align="center">Hi, I'm Connor van Spronssen</h1>
 <p align="center">A passionate full-stack engineer from the Netherlands 🇳🇱</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dobefu&label=Profile%20views&color=0284c7" alt="Dobefu" />
-</p>
-
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dobefu&theme=gitdimmed&margin-w=8&margin-h=8&rank=-?" alt="Dobefu" />
