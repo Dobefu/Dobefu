@@ -34,7 +34,7 @@
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dobefu&show_icons=true&locale=en&layout=pie&theme=github_dark_dimmed"
-    alt="dobefu"
+    alt="Dobefu"
     height="369"
   />
 </p>
